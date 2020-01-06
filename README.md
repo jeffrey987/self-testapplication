@@ -1,6 +1,6 @@
 # self-testapplication
 When I'm bored, I will experience some new applications. This repository is used to record the apps I have used and some of my experiences.
-
+当我无聊时，我将体验一些新的应用程序。 该仓库用于记录我已使用的应用程序和一些经验。
 
 
 |序号|图标|名称|
